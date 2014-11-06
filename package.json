@@ -2,7 +2,9 @@
   "name": "book",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "marked": "^0.3.2"
+  },
   "devDependencies": {
     "grunt": "^0.4.1",
     "grunt-contrib-copy": "^0.5.0",
@@ -17,7 +19,6 @@
     "grunt-contrib-jade": "^0.11.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-contrib-stylus": "^0.19.0",
-    
     "grunt-rev": "^0.1.0",
     "grunt-usemin": "^2.1.1",
     "grunt-mocha": "^0.4.7",
