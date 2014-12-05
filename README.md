@@ -6,7 +6,8 @@ Use markdown, jade and stylus to write an e-book!
 
 ## Dependencies
 
-Install kindle gen by Amazon [Kindle Gen] (http://www.amazon.com/gp/feature.html?docId=1000765211)
+Install kindle gen by Amazon [Kindle Gen] (http://www.amazon.com/gp/feature.html?docId=1000765211).
+
 Install kindle preview by Amazon [Kindle Previewer](http://www.amazon.com/gp/feature.html?docId=1000765261).
 
 Install pandoc http://johnmacfarlane.net/pandoc/installing.html
